@@ -2,18 +2,19 @@
 
 This watch application drives you through the execution of 13 exercises described in literature as High-Intensity Circuit Training.
 
+Read more in this article from ACSM's Health and Fitness Journal: https://goo.gl/zAnVOP
+
 The watch displays a timer for the 30-second exercises followed by 10-second rest period (configurable).
 
 Number of exercises, duration of exercises and rest periods are configurable on the watch menu or through Garmin Connect Mobile.
-A long vibration will trigger at the beginning and at the end of each exercise.
-A short vibration will trigger every 10 seconds during the exercise.
-Sound notification is not supported.
+Vibration and sound notification is supported based on the watch features.
 
-Three activity types are available:
+Four activity types are available:
 
  - 7-minute workout: 13 exercises from HICT program are repeated, activity is saved as cardio training
  - Cardio: activity is saved as cardio training
  - Strength: activity is saved as strength training
+ - Flexibility: activity is saved as flexibility training, but Garmin Connect displays it as "Strength Training"
 
 The application supports heart-rate monitor (HRM) and temperature sensor (Tempe).
 
@@ -37,8 +38,7 @@ The activity in your Garmin profile will include basic information such as date,
 == SUPPORT ==
 
 Please submit questions, issues and enhancement requests on the project site: https://bitbucket.org/obagot/connectiq-hict/issues
-Supported languages: Danish, English, French.
-Supported models: vívoactive®, vívoactive® HR, Forerunner® 920XT, 735XT, 630, 235, 230, fēnix® 3, fēnix® 3 HR, fēnix® Chronos.
+Supported languages: Danish, English, French, German, Polish.
 License : https://opensource.org/licenses/MIT
 
 

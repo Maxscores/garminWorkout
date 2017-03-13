@@ -25,8 +25,10 @@
 
 		<iq:languages>
 			<iq:language>dan</iq:language>
+			<iq:language>deu</iq:language>
 			<iq:language>eng</iq:language>
 			<iq:language>fre</iq:language>
+			<iq:language>pol</iq:language>
 		</iq:languages>
 
 	</iq:application>
